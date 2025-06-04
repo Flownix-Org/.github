@@ -45,19 +45,23 @@ Whether you're a marketer, a customer support lead, or a solo founder, Flownix g
 
 ## 🖼️ Screenshots
 
-> _(Add screenshots or GIFs here to showcase the flow builder, chatbot preview, and analytics dashboard.)_
+### 🌐 Landing Page
+![Landing Page](images/landing.png)
+
+### 🧩 Drag-and-Drop Flow Builder
+![Flow Builder](images/webflow.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer            | Tools                             |
-|------------------|-----------------------------------|
-| Frontend         | React.js, Tailwind CSS, Zustand   |
-| Backend          | Firebase Functions, Firestore     |
-| Auth & Hosting   | Firebase Authentication, Hosting  |
-| Social Integrations | Facebook Graph API, Telegram Bot API, Webhooks |
-| Fallback AI      | OpenAI (GPT-4 via API)            |
+| Layer              | Tools                                 |
+|--------------------|---------------------------------------|
+| Frontend           | React.js, Tailwind CSS, Zustand       |
+| Backend            | Firebase Functions, Firestore         |
+| Auth & Hosting     | Firebase Authentication, Hosting      |
+| Social Integrations| Facebook Graph API, Telegram Bot API, Webhooks |
+| Fallback AI        | OpenAI (GPT-4 via API)                |
 
 ---
 
