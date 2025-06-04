@@ -57,7 +57,7 @@ Whether you're a marketer, a customer support lead, or a solo founder, Flownix g
 | Backend          | Firebase Functions, Firestore     |
 | Auth & Hosting   | Firebase Authentication, Hosting  |
 | Social Integrations | Facebook Graph API, Telegram Bot API, Webhooks |
-| Optional AI      | OpenAI (GPT-4 via API)            |
+| Fallback AI      | OpenAI (GPT-4 via API)            |
 
 ---
 
