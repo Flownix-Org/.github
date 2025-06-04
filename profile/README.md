@@ -46,10 +46,10 @@ Whether you're a marketer, a customer support lead, or a solo founder, Flownix g
 ## 🖼️ Screenshots
 
 ### 🌐 Landing Page
-![Landing Page](profile/landing.png)
+![Landing Page](landing.png)
 
 ### 🧩 Drag-and-Drop Flow Builder
-![Flow Builder](profile/webflow.png)
+![Flow Builder](webflow.png)
 
 ---
 
